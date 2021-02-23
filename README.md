@@ -1,1 +1,1 @@
-# docker-php-dev
+# Dockerfiles for dev environment
